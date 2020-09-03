@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611736340634",
+    "firebase_url": "https://fincabectronix.firebaseio.com",
+    "project_id": "fincabectronix",
+    "storage_bucket": "fincabectronix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611736340634:android:c788fa47db9f2748adf723",
+        "android_client_info": {
+          "package_name": "com.example.fincabectronix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611736340634-2gmhiuk02aj44kb0bbueah0gj7k1pghd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqdjxFQEe8df-SujFBD-pj1thDaGypGeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611736340634-2gmhiuk02aj44kb0bbueah0gj7k1pghd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
